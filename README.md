@@ -1,1 +1,1 @@
-# Mithra
+# Python basic projects
